@@ -1,0 +1,76 @@
+@charset "ISO-8859-1";
+body{
+	background-color: #eee;
+}
+h1{
+	font-family: 'Lato', sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+button {
+	background-color: #E74C3C;
+	border: none;
+	
+	text-align: center;
+	font-size: 15px;
+	color: white;
+	
+}
+button:hover{
+	background-color: #D13E2E;
+	box-shadow: 5px 10px 15px grey;
+	
+}
+button:active{
+	border:0px solid;
+	background-color: #D13E2E;
+}
+
+.fbtn{
+	
+ border-radius: 4px;
+  padding:9px 200px;
+  margin:auto;
+  font-size:20px;
+}
+
+.rbtn{
+	border-radius: 4px;
+  padding:9px 200px;
+  margin:auto;
+  font-size:20px;
+}
+
+.lbtn{
+	border-radius: 4px;
+  padding:9px 175px;
+  margin-bottom:10px;
+  text-align:center;
+    transition: all 0.5s;
+  cursor: pointer;
+}
+
+
+.font{
+	color:#E74C3C
+}
+.card
+{
+	box-shadow: 10px 15px 30px grey;
+}
+
+.home
+{
+	
+
+padding:50px;
+ 
+}
+.icon{
+	text-align:center;
+	padding:30px;
+	margin:30px;
+}
